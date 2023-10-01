@@ -1,0 +1,41 @@
+.main{
+
+}
+.container {
+  position: relative;
+  width: 420px;
+  height: 700px;
+  margin: 100px auto 0;
+}
+.message {
+  position: absolute;
+  display: none;
+  text-align: center;
+  top: 200px;
+  width: 100%;
+  background-color: rgba(255,255,255,0.8);
+  padding: 0 0 30px;
+}
+.message p {
+  margin: 0px;
+}
+.mainText {
+  font-size: 64px;
+  color: #F00;
+}
+.subText {
+  font-size: 32px;
+  color: #000;
+}
+
+.button {
+  width: 150px;
+  height: 40px;
+  font-size: 24px;
+
+}
+
+.score-container {
+  width: 420px;
+  margin: 10px auto 0;
+}
